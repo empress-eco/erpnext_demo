@@ -1,13 +1,19 @@
-<p align="center">
-A hands-on exploration of the comprehensive functionalities of Empress.
+<div align="center">
 
-![Empress Demo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+<p align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
+A hands-on exploration of the comprehensive functionalities of Empress.
 
 Explore the Docs: [Empress Empress Documentation](https://grow.empress.eco/)
 ·
 Report Bug: [Report a Bug](https://github.com/empress-eco/Empress_demo/issues)
 ·
 Request Feature: [Request a Feature](https://github.com/empress-eco/Empress_demo/issues/new)
+
+</div>
+
 </p>
 
 ## About The Project
